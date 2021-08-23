@@ -7,4 +7,4 @@ The prompts given to Codex are written as comments in the code
 
 Here is an example:
 
-![](sleep apnea example.PNG)
+![](sleep-apnea-example.PNG)
